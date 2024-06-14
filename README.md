@@ -1,3 +1,3 @@
-## Measurement Standards 0.0.1
+## Measurement Standards 0.0.2
 
-This project standardizes measurement numbers across multiple measurement procedures. Due to changing standard numbers, this measurement guide was created to avoid downstream issues with CoRA and OsteoSort. These numbers will never change unless significant errors are identified. If a measurement becomes deprecated, the number will be indefinitely reserved. These standards provide a stable numbering platform on which advanced analytics can be built.
+This project aims to standardize measurement numbers across various platforms. To prevent downstream issues with CoRA and OsteoSort caused by changing standard numbers, we have developed this measurement guide. These numbers will remain constant unless significant errors are found. If a measurement is deprecated, its number will be reserved. These standards ensure a stable numbering system, forming a reliable foundation for advanced analytics.
